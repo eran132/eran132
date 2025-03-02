@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Eran, DevOps@BLEND Localization
-- 👀 I’m interested in Cloud, CI/CD, IaC
-- 🌱 I’m currently learning what ACLOUDGURU & UDEMY has to offer
+- 👋 Hi, I’m Eran, DevOps For hire
+- 👀 I’m interested in Cloud, CI/CD, IaC, Monitoring & Observability
+- 🌱 I’m currently learning what KodeKloud & UDEMY has to offer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
