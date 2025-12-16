@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Eran, DevOps For hire
+- 👋 Hi, I’m Eran, DevOps@MatrixDnA
 - 👀 I’m interested in Cloud, CI/CD, IaC, Monitoring & Observability
 - 🌱 I’m currently learning what KodeKloud & UDEMY has to offer
 - 💞️ I’m looking to collaborate on ...
